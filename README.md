@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,35:3B82F6,70:7C3AED,100:A78BFA&height=220&section=header&text=Saamya%20S%20Kumar&fontSize=56&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=CS%20Engineering%20Student%20%E2%80%A2%20AI%20%26%20Backend%20Developer&descSize=18&descAlignY=58" width="100%" alt="Saamya S Kumar"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,35:3B82F6,70:7C3AED,100:A78BFA&height=220&section=header&text=Saamya%20S%20Kumar&fontSize=56&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=%E2%99%9B%20%20CS%20Engineering%20Student%20%E2%80%A2%20AI%20%26%20Backend%20Developer&descSize=18&descAlignY=58" width="100%" alt="Saamya S Kumar"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI;LLMs+%C2%B7+Agents+%C2%B7+RAG+%E2%86%92+real-world+impact" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI;Thinking+a+few+moves+ahead+%E2%99%9F" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">♜ &nbsp;Tech Stack</h3>
 <br>
 
 <table align="center">
@@ -57,7 +57,7 @@
 
 ---
 
-<h3 align="center">📈 GitHub Analytics</h3>
+<h3 align="center">♞ &nbsp;GitHub Analytics</h3>
 <br>
 
 <p align="center">
@@ -80,12 +80,22 @@
 ---
 
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i> — John Johnson
+  <i>"Every chess master was once a beginner."</i><br>
+  <sub>— Irving Chernev</sub>
 </p>
 
 ```text
-  ▸ status : building...      ▸ mode : learn → build → ship → repeat
+   ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+   ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+
+   ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
+   ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
+
+   1. learn  build    2. ship  repeat
+   status : building...   your move.
 ```
+
+<p align="center"><sub>♔ &nbsp;thanks for stopping by</sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,35:3B82F6,70:7C3AED,100:A78BFA&height=110&section=footer" width="100%" alt="Footer"/>
