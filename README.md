@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saamya456&label=views&color=7C3AED&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/saamya456?label=followers&style=flat-square&color=7C3AED" alt="Followers"/>
 </p>
 
 <p align="center">
@@ -57,22 +56,12 @@
 ---
 
 <p align="center">
-  <i>"Every chess master was once a beginner."</i><br>
-  <sub>— Irving Chernev</sub>
+  <img src="https://raw.githubusercontent.com/saamya456/saamya456/main/chess.svg" width="420" alt="Morphy's Opera Game replaying move by move"/>
 </p>
 
-```text
-   ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
-   ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
-
-   ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
-   ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
-
-   1. learn  build    2. ship  repeat
-   status : building...   your move.
-```
-
-<p align="center"><sub>♔ &nbsp;thanks for stopping by</sub></p>
+<p align="center">
+  <i>"Every chess master was once a beginner."</i> — Irving Chernev
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,35:3B82F6,70:7C3AED,100:A78BFA&height=110&section=footer" width="100%" alt="Footer"/>
