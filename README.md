@@ -19,8 +19,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,react,postgres,mongodb,docker,git&theme=light&perline=10"/>
-    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,react,postgres,mongodb,docker,git&theme=dark&perline=10" alt="Core stack"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,py,pytorch,sklearn,react,postgres,mongodb,docker,git&theme=light&perline=10"/>
+    <img src="https://skillicons.dev/icons?i=fastapi,py,pytorch,sklearn,react,postgres,mongodb,docker,git&theme=dark&perline=10" alt="Core stack"/>
   </picture>
 </p>
 
