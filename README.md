@@ -11,7 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saamya-s-kumar" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn" title="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://github.com/saamya456" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" title="GitHub"/></picture></a>&nbsp;&nbsp;<a href="mailto:saamya.1606@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="36" alt="Email" title="Email"/></a>
+  <a href="https://linkedin.com/in/saamya-s-kumar" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn" title="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://github.com/saamya456" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" title="GitHub"/></picture></a>
+  <br><br>
+  <sub>saamya.1606@gmail.com</sub>
 </p>
 
 ---
