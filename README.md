@@ -3,15 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI;Thinking+a+few+moves+ahead+%E2%99%9F" alt="Typing SVG"/>
+  <i>Building intelligent systems with AI</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saamya456&label=views&color=7C3AED&style=flat-square" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/saamya-s-kumar" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn" title="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://github.com/saamya456" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" title="GitHub"/></picture></a>
+  <a href="https://linkedin.com/in/saamya-s-kumar" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn" title="LinkedIn"/></a>
   <br><br>
   <sub>saamya.1606@gmail.com</sub>
 </p>
