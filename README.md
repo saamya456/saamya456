@@ -26,7 +26,7 @@
 
 <p align="center">
   <sub><b>GENAI &amp; LLMS</b></sub><br>
-  <code>OpenAI</code> <code>Claude</code> <code>Gemini</code> <code>Groq</code> <code>Ollama</code> <code>Perplexity</code> <code>Hugging Face</code> <code>LangChain</code>
+  <code>OpenAI</code> <code>Claude</code> <code>Gemini</code> <code>Groq</code> <code>Hugging Face</code> <code>LangChain</code>
 </p>
 
 ---
