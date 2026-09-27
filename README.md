@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,35:3B82F6,70:7C3AED,100:A78BFA&height=220&section=header&text=Saamya%20S%20Kumar&fontSize=56&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=%E2%99%9B%20%20CS%20Engineering%20Student%20%E2%80%A2%20AI%20%26%20Backend%20Developer&descSize=18&descAlignY=58" width="100%" alt="Saamya S Kumar"/>
+  <img src="https://raw.githubusercontent.com/saamya456/saamya456/main/header.svg" width="100%" alt="Saamya S Kumar · CS Engineering Student · AI &amp; Backend Developer"/>
 </p>
 
 <p align="center">
@@ -56,13 +56,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saamya456/saamya456/main/chess.svg" width="420" alt="Morphy's Opera Game replaying move by move"/>
-</p>
-
-<p align="center">
   <i>"Every chess master was once a beginner."</i> — Irving Chernev
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,35:3B82F6,70:7C3AED,100:A78BFA&height=110&section=footer" width="100%" alt="Footer"/>
+  <img src="https://raw.githubusercontent.com/saamya456/saamya456/main/footer.svg" width="100%" alt=""/>
 </p>
